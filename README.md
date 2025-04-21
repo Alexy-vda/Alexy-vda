@@ -5,39 +5,27 @@ i'm alexy, a french developer based in Toulouse, France. I am passionate about w
 I am currently working on several projects, including the ava-tool ! 
 
 ## My Skills
+
+### Backend 
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,graphql,py,django,fastapi,redis,postgres,rabbitmq," />
+  </a>
+</p>
+
 ### Frontend
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- TypeScript
-- React
-- Next.js
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,materialui" />
+  </a>
+</p>
 
-### Backend
-- Golang
-- Gorm
-- Gin-gonic
-- Python
-- Django
-- FastAPI
-- Cellery
-- Redis
-- PostgreSQL
-- RabbitMQ
-- GraphQL
-- REST
-- WebSocket
 ### DevOps
-- Docker
-- Kubernetes
-- Compose
-- Nginx
-- Traefik
-- Git
-- GitHub Actions
-- Gitlab-CI
-
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,githubactions,github,gitlab,vercel" />
+  </a>
+</p>
 
 <!--
 **Alexy-vda/Alexy-vda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
